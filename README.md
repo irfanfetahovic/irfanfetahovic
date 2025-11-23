@@ -22,7 +22,7 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 - **MLOps & Production:** Docker, CI/CD, Model Deployment, Monitoring
 
 ### **💻 Technical Stack**
-**Languages:** Python, R, SQL, Bash  
+**Languages:** Python, SQL, Bash  
 **ML Frameworks:** TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM  
 **MLOps Tools:** Docker, GitHub Actions, MLflow, Optuna  
 **Cloud & Deployment:** AWS, Streamlit, FastAPI  
