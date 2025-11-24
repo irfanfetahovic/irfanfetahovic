@@ -36,7 +36,7 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 
 ## 🚀 Featured Projects
 
-### 1. **[Advanced Credit Card Fraud Detection](https://github.com/irfanfetahovic/creditcard-fraud-prediction)**
+### 1. **[Advanced Credit Card Fraud Detection](https://github.com/irfanfetahovic/creditcard-fraud-detection)**
 **Research-Grade ML with Metaheuristic Optimization**  
 *Key Innovations: Gray Wolf Optimization for hyperparameter tuning*  
 - Achieved 87.3% fraud recall with 98.2% precision  
