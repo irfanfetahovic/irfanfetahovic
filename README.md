@@ -103,7 +103,7 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 - Multiple peer-reviewed publications in machine learning and soft computing
 - Research focus on metaheuristic optimization and algorithmic improvements
 - Practical applications in real-world problems
-- **[Google Scholar](https://scholar.google.com/citations?user=b7l_6WgAAAAJ&hl=en))**
+- **[Google Scholar](https://scholar.google.com/citations?user=b7l_6WgAAAAJ&hl=en)**
 
 ## 💼 Professional Services
 
