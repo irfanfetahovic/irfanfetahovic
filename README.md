@@ -45,7 +45,7 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 **Tech:** Python, XGBoost, Optuna, Metaheuristics, Streamlit  
 **Impact:** 5% performance boost over conventional tuning methods
 
-### 2. **[Production Sentiment Analysis with MLOps](https://github.com/irfanfetahovic/sentiment-analysis-mlops)**
+### 2. **[Production Sentiment Analysis with MLOps](https://github.com/irfanfetahovic/sentiment-analysis)**
 **Enterprise-Grade ML System**  
 *Production Features: Docker containerization & CI/CD pipeline*  
 - Hugging Face Transformers integration  
