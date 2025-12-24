@@ -16,9 +16,9 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 ## 🔬 Core Competencies
 
 ### **🧠 Advanced Machine Learning**
-- **Metaheuristics & Optimization:** Genetic Algorithms, Gray Wolf Optimization, Particle Swarm Optimization
-- **Deep Learning:** Transformers, Neural Networks, Computer Vision, NLP
-- **Classical ML:** Ensemble Methods, SVMs, Statistical Modeling
+- **Metaheuristics & Optimization:** Genetic Algorithms, Gray Wolf Optimization, Particle Swarm Optimization and other Swarm Intelligence algorithms.
+- **Deep Learning:** Neural Networks, Transformers, Computer Vision, NLP
+- **Classical ML:** Ensemble Methods, SVMs, Logistic Regression and others.
 - **MLOps & Production:** Docker, CI/CD, Model Deployment, Monitoring
 
 ### **💻 Technical Stack**
@@ -29,7 +29,7 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 **Research & Analysis:** Jupyter, LaTeX, Google Colab
 
 ### **🎯 Business Domains**
-- Financial Technology (Fraud Detection, Risk Analysis)
+- Financial Technology (Fraud Detection)
 - Healthcare AI (Diagnostic Systems, Predictive Modeling)
 - E-commerce & Marketing (Customer Analytics, Personalization)
 - Industrial Optimization (Supply Chain, Logistics)
