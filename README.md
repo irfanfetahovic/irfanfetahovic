@@ -17,8 +17,8 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 
 ### **🧠 Advanced Machine Learning**
 - **Metaheuristics & Optimization:** Evolutionary Algorithms, Swarm Intelligence Algorithms, including Gray Wolf Optimization, Genetic Algorithm, and Firefly Algorithm.
-- **Deep Learning:** Neural Networks, Transformers, Computer Vision, NLP
-- **Classical ML:** Ensemble Methods, SVMs, Logistic Regression and others.
+- **Deep Learning:** Neural Networks, Transformers, NLP, Computer Vision
+- **Classical ML:** Ensemble Methods, SVMs, Logistic Regression and more
 - **MLOps & Production:** Docker, CI/CD, Model Deployment, Monitoring
 
 ### **💻 Technical Stack**
