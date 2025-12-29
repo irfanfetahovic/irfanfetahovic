@@ -22,11 +22,11 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 - **MLOps & Production:** Docker, CI/CD, Model Deployment, Monitoring
 
 ### **💻 Technical Stack**
-**Languages:** Python, SQL 
-**ML Frameworks:** TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM, Optuna  
-**MLOps Tools:** Docker, GitHub Actions, MLflow 
-**Cloud & Deployment:** AWS, Digital Ocean, Streamlit, FastAPI  
-**Research & Analysis:** Jupyter, LaTeX, Google Colab
+- **Languages:** Python, SQL 
+- **ML Frameworks:** TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM, Optuna  
+- **MLOps Tools:** Docker, GitHub Actions, MLflow 
+- **Cloud & Deployment:** AWS, Digital Ocean, Streamlit, FastAPI  
+- **Research & Analysis:** Jupyter, LaTeX, Google Colab
 
 ### **🎯 Application Domains**
 - Financial ML: Fraud detection, risk modeling, imbalanced classification
