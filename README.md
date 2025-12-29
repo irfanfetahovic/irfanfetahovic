@@ -25,7 +25,7 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 - **Languages:** Python, SQL 
 - **ML Frameworks:** TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM, Optuna  
 - **MLOps Tools:** Docker, GitHub Actions, MLflow 
-- **Cloud & Deployment:** AWS, Digital Ocean, Streamlit, FastAPI  
+- **Cloud & Deployment:** AWS, DigitalOcean, Streamlit, FastAPI  
 - **Research & Analysis:** Jupyter, LaTeX, Google Colab
 
 ### **🎯 Application Domains**
@@ -47,7 +47,7 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 
 ### 2. **[Production Sentiment Analysis with MLOps](https://github.com/irfanfetahovic/sentiment-analysis)**
 **Enterprise-Grade ML System**  
-*Production Features: Docker containerization, AWS and Digital Ocean deployment, & CI/CD pipeline*  
+*Production Features: Docker containerization, AWS and DigitalOcean deployment, & CI/CD pipeline*  
 - Hugging Face Transformers integration  
 - Comprehensive testing & monitoring  
 - Installable package architecture  
