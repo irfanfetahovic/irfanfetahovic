@@ -16,23 +16,23 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 ## 🔬 Core Competencies
 
 ### **🧠 Advanced Machine Learning**
-- **Metaheuristics & Optimization:** Genetic Algorithms, Gray Wolf Optimization, Particle Swarm Optimization and other Swarm Intelligence algorithms.
+- **Metaheuristics & Optimization:** Evolutionary Algorithms, Swarm Intelligence Algorithms, including Gray Wolf Optimization, Genetic Algorithm, and Firefly Algorithm.
 - **Deep Learning:** Neural Networks, Transformers, Computer Vision, NLP
 - **Classical ML:** Ensemble Methods, SVMs, Logistic Regression and others.
 - **MLOps & Production:** Docker, CI/CD, Model Deployment, Monitoring
 
 ### **💻 Technical Stack**
-**Languages:** Python, SQL, Bash  
-**ML Frameworks:** TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM  
-**MLOps Tools:** Docker, GitHub Actions, MLflow, Optuna  
-**Cloud & Deployment:** AWS, Streamlit, FastAPI  
+**Languages:** Python, SQL 
+**ML Frameworks:** TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM, Optuna  
+**MLOps Tools:** Docker, GitHub Actions, MLflow 
+**Cloud & Deployment:** AWS, Digital Ocean, Streamlit, FastAPI  
 **Research & Analysis:** Jupyter, LaTeX, Google Colab
 
-### **🎯 Business Domains**
-- Financial Technology (Fraud Detection)
-- Healthcare AI (Diagnostic Systems, Predictive Modeling)
-- E-commerce & Marketing (Customer Analytics, Personalization)
-- Industrial Optimization (Supply Chain, Logistics)
+### **🎯 Application Domains**
+- Financial ML: Fraud detection, risk modeling, imbalanced classification
+- Healthcare AI: Predictive modeling, explainable ML for clinical decision support
+- E-commerce Analytics: Customer segmentation, personalization, BI dashboards
+- Optimization Problems: Scheduling, resource allocation, and other real-world optimization problems
 
 ## 🚀 Featured Projects
 
@@ -47,11 +47,11 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 
 ### 2. **[Production Sentiment Analysis with MLOps](https://github.com/irfanfetahovic/sentiment-analysis)**
 **Enterprise-Grade ML System**  
-*Production Features: Docker containerization & CI/CD pipeline*  
+*Production Features: Docker containerization, AWS and Digital Ocean deployment, & CI/CD pipeline*  
 - Hugging Face Transformers integration  
 - Comprehensive testing & monitoring  
 - Installable package architecture  
-**Tech:** Docker, GitHub Actions, Transformers, pytest, Makefile  
+**Tech:** FastAPI, Docker, GitHub Actions, Transformers, pytest, Makefile  
 **Impact:** Fully deployable ML service with enterprise reliability
 
 ### 3. **[Clinical Heart Disease Prediction](https://github.com/irfanfetahovic/heart-disease-prediction)**
@@ -103,7 +103,7 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 - Multiple peer-reviewed publications in machine learning and soft computing
 - Research focus on metaheuristic optimization and algorithmic improvements
 - Practical applications in real-world problems
-- **[Google Scholar](https://scholar.google.com/citations?user=b7l_6WgAAAAJ&hl=en)**
+- **[Google Scholar profile](https://scholar.google.com/citations?user=b7l_6WgAAAAJ&hl=en)**
 
 ## 💼 Professional Services
 
