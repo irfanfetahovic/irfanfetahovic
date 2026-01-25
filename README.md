@@ -44,7 +44,7 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 - Production-ready FastAPI deployment with Docker containerization
 - ROUGE-1: 0.462, ROUGE-2: 0.218 on SAMSum dataset
 **Tech:** Python, FLAN-T5, PyTorch, Transformers, PEFT, SageMaker, FastAPI, Docker, MLflow  
-**Impact:** Enterprise-grade LLM fine-tuning pipeline with $0.40 training cost
+**Impact:** Enterprise-grade LLM fine-tuning pipeline with $0.70 training cost
   
 ### 2. **[Advanced Credit Card Fraud Detection](https://github.com/irfanfetahovic/creditcard-fraud-detection)**
 **Research-Grade ML with Metaheuristic Optimization**  
