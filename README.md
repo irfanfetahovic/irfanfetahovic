@@ -17,18 +17,20 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 
 ### **🧠 Advanced Machine Learning**
 - **Metaheuristics & Optimization:** Evolutionary Algorithms, Swarm Intelligence Algorithms, including Gray Wolf Optimization, Genetic Algorithm, and Firefly Algorithm.
-- **Deep Learning:** Neural Networks, Transformers, NLP, Computer Vision
+- **Large Language Models (LLMs):** Fine-tuning with LoRA/PEFT, efficient adaptation, dialog summarization
+- **Deep Learning:** Neural Networks, Transformers, LLMs, NLP, Computer Vision
 - **Classical ML:** Ensemble Methods, SVMs, Logistic Regression and more
-- **MLOps & Production:** Docker, CI/CD, Model Deployment, Monitoring
+- **MLOps & Production:** Docker, CI/CD, Model Deployment, Monitoring, AWS SageMaker, Cloud-Native ML
 
 ### **💻 Technical Stack**
 - **Languages:** Python, SQL 
-- **ML Frameworks:** TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM, Optuna  
+- **ML Frameworks:** TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM, Optuna, PEFT, HuggingFace Transformers
 - **MLOps Tools:** Docker, GitHub Actions, MLflow 
-- **Cloud & Deployment:** AWS, DigitalOcean, Streamlit, FastAPI  
+- **Cloud & Deployment:** AWS (S3, ECS Fargate, EC2, SageMaker), DigitalOcean, Streamlit, FastAPI  
 - **Research & Analysis:** Jupyter, LaTeX, Google Colab
 
 ### **🎯 Application Domains**
+- LLM Applications: Dialog summarization, text generation, parameter-efficient fine-tuning
 - Financial ML: Fraud detection, risk modeling, imbalanced classification
 - Healthcare AI: Predictive modeling, explainable ML for clinical decision support
 - E-commerce Analytics: Customer segmentation, personalization, BI dashboards
