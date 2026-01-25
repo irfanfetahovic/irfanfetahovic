@@ -36,7 +36,17 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 
 ## 🚀 Featured Projects
 
-### 1. **[Advanced Credit Card Fraud Detection](https://github.com/irfanfetahovic/creditcard-fraud-detection)**
+### 1. **[FLAN-T5 Dialog Summarization with SageMaker](https://github.com/irfanfetahovic/flant5-dialogsum-sagemaker)**
+**Production LLM Fine-tuning with AWS SageMaker**  
+*Key Innovations: LoRA/PEFT for efficient LLM adaptation, cloud-native ML architecture*  
+- 97.3% parameter reduction using LoRA (6.8M vs 248M trainable params)
+- Full AWS SageMaker integration with spot instances (~70% cost savings)
+- Production-ready FastAPI deployment with Docker containerization
+- ROUGE-1: 0.462, ROUGE-2: 0.218 on SAMSum dataset
+**Tech:** Python, FLAN-T5, PyTorch, Transformers, PEFT, SageMaker, FastAPI, Docker, MLflow  
+**Impact:** Enterprise-grade LLM fine-tuning pipeline with $0.40 training cost
+  
+### 2. **[Advanced Credit Card Fraud Detection](https://github.com/irfanfetahovic/creditcard-fraud-detection)**
 **Research-Grade ML with Metaheuristic Optimization**  
 *Key Innovations: Gray Wolf Optimization for hyperparameter tuning*  
 - Achieved 87.3% fraud recall with 98.2% precision  
@@ -45,7 +55,7 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 **Tech:** Python, XGBoost, Optuna, Metaheuristics, Streamlit  
 **Impact:** 5% performance boost over conventional tuning methods
 
-### 2. **[Production Sentiment Analysis with MLOps](https://github.com/irfanfetahovic/sentiment-analysis)**
+### 3. **[Production Sentiment Analysis with MLOps](https://github.com/irfanfetahovic/sentiment-analysis)**
 **Enterprise-Grade ML System**  
 *Production Features: Docker containerization, AWS and DigitalOcean deployment, & CI/CD pipeline*  
 - Hugging Face Transformers integration  
@@ -54,7 +64,7 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 **Tech:** FastAPI, Docker, GitHub Actions, Transformers, pytest, Makefile  
 **Impact:** Fully deployable ML service with enterprise reliability
 
-### 3. **[Clinical Heart Disease Prediction](https://github.com/irfanfetahovic/heart-disease-prediction)**
+### 4. **[Clinical Heart Disease Prediction](https://github.com/irfanfetahovic/heart-disease-prediction)**
 **Explainable AI for Healthcare**  
 *Focus on Model Interpretability with SHAP & LIME*  
 - 90% accuracy with 94% ROC AUC  
@@ -63,7 +73,7 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 **Tech:** Scikit-learn, SHAP, LIME, Optuna, Streamlit  
 **Impact:** Trustworthy AI for critical medical decisions
 
-### 4. **[E-commerce Business Intelligence](https://github.com/irfanfetahovic/ecommerce-data-analysis)**
+### 5. **[E-commerce Business Intelligence](https://github.com/irfanfetahovic/ecommerce-data-analysis)**
 **Data-Driven Business Strategy**  
 *Advanced Analytics: RFM Segmentation & Cohort Analysis*  
 - Customer segmentation and retention modeling  
