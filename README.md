@@ -44,7 +44,6 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 - 97.3% parameter reduction using LoRA (6.8M vs 248M trainable params)
 - Full AWS SageMaker integration with spot instances (~70% cost savings)
 - Production-ready FastAPI deployment with Docker containerization
-- ROUGE-1: 0.462, ROUGE-2: 0.218 on SAMSum dataset
 **Tech:** Python, FLAN-T5, PyTorch, Transformers, PEFT, SageMaker, FastAPI, Docker, MLflow  
 **Impact:** Enterprise-grade LLM fine-tuning pipeline with $0.70 training cost
   
