@@ -105,6 +105,7 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 | Machine Learning Specialization | Coursera | Foundational ML |
 | Deep Learning Specialization | Coursera | Advanced DL |
 | MLOps Specialization | Coursera | Production ML |
+| Generative AI with LLMs | DeepLearning.AI | Large Language Models and Generative AI |   
 
 **PhD in Soft Computing** - Metaheuristics & Optimization  
 **18 Years Academic Experience** - Research & Teaching
