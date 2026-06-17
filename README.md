@@ -46,7 +46,7 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 - Implemented tool-using LLM system via MCP-based CRM integration (mock backend, swappable design)
 - Added self-evaluation loop (LLM-as-judge) for response quality control and automatic retry logic
 - Built persistent memory system using LangGraph + SQLite checkpointer for multi-turn conversations
-- Deployed as full-stack system with FastAPI + Gradio (Hugging Face Spaces)
+- Deployed as full-stack system with FastAPI + Gradio (Hugging Face Spaces)  
 **Tech:** Python, LangGraph, OpenAI GPT-4o-mini, FAISS, BM25, FastAPI, Gradio, Docker
 **Impact:** End-to-end LLM system demonstrating reliable agentic AI with evaluation-driven design
 
