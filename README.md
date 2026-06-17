@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20Research%20Scientist&fontSize=40&fontAlignY=35&desc=PhD%20in%20Soft%20Computing%20|%20ML%20Engineer%20|%20Metaheuristics%20Expert&descSize=20&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20Applied%20Scientist&fontSize=40&fontAlignY=35&desc=PhD%20in%20Soft%20Computing%20|%20ML%20Engineer%20|%20Metaheuristics%20Expert&descSize=20&descAlignY=55)
 
 </div>
 
@@ -11,9 +11,7 @@
 PhD in Soft Computing with 18 years of academic experience, including 5 years as an Assistant Professor. I bridge the gap between cutting-edge AI research and production-ready business solutions through expertise in **metaheuristics optimization**, **machine learning engineering**, and **MLOps**.
 
 **Research Focus:** Metaheuristics, Optimization Algorithms, Machine Learning, Deep Learning  
-**Industry Focus:** Production AI & ML Systems, LLM applications, MLOps, Business Intelligence, Explainable AI
-
-I also build end-to-end **AI agent systems**, including RAG pipelines, tool-using LLMs, and evaluation-driven architectures for reliable real-world deployment.
+**Industry Focus:** Production AI & ML Systems, AI agent systems & LLM applications, MLOps, Business Intelligence, Explainable AI
 
 ## 🔬 Core Competencies
 
