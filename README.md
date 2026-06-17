@@ -11,7 +11,7 @@
 PhD in Soft Computing with 18 years of academic experience, including 5 years as an Assistant Professor. I bridge the gap between cutting-edge AI research and production-ready business solutions through expertise in **metaheuristics optimization**, **machine learning engineering**, and **MLOps**.
 
 **Research Focus:** Metaheuristics, Optimization Algorithms, Machine Learning, Deep Learning  
-**Industry Focus:** Production AI&ML Systems, LLM applications, MLOps, Business Intelligence, Explainable AI
+**Industry Focus:** Production AI & ML Systems, LLM applications, MLOps, Business Intelligence, Explainable AI
 
 I also build end-to-end **AI agent systems**, including RAG pipelines, tool-using LLMs, and evaluation-driven architectures for reliable real-world deployment.
 
@@ -42,7 +42,7 @@ I also build end-to-end **AI agent systems**, including RAG pipelines, tool-usin
 ## 🚀 Featured Projects
 
 ### 1. **[AI Customer Support Agent (RAG + Agentic AI + MCP)](https://github.com/irfanfetahovic/ai-customer-support-agent)**
-**Production-grade AI agent system with RAG, tool calling, and self-evaluation loop**
+**Production-oriented LLM-based AI agent system with RAG, tool calling, and self-evaluation loop**
 - Built a multi-agent architecture (Planner → Worker → Evaluator) for structured reasoning and execution
 - Designed hybrid RAG pipeline (FAISS + BM25 + reranking) for high-recall knowledge retrieval
 - Implemented tool-using LLM system via MCP-based CRM integration (mock backend, swappable design)
@@ -50,7 +50,7 @@ I also build end-to-end **AI agent systems**, including RAG pipelines, tool-usin
 - Built persistent memory system using LangGraph + SQLite checkpointer for multi-turn conversations
 - Deployed as full-stack system with FastAPI + Gradio (Hugging Face Spaces)
 **Tech:** Python, LangGraph, OpenAI GPT-4o-mini, FAISS, BM25, FastAPI, Gradio, Docker
-**Impact:** End-to-end production LLM system demonstrating reliable agentic AI with evaluation-driven design
+**Impact:** End-to-end LLM system demonstrating reliable agentic AI with evaluation-driven design
 
 ### 2. **[FLAN-T5 Dialog Summarization with SageMaker](https://github.com/irfanfetahovic/flant5-dialogsum-sagemaker)**
 **Production LLM Fine-tuning with AWS SageMaker**  
@@ -140,7 +140,7 @@ I work on designing and implementing production-oriented AI and machine learning
 - **Custom ML Engineering:** Full pipeline development from training to deployment in production environments
 - **MLOps Implementation:** Scalable ML system architecture, CI/CD, Dockerized deployments, and cloud integration
 - **Research Collaboration:** Development of advanced optimization algorithms and applied machine learning research
-- **Technical Mentoring:** Guidance on ML engineering, LLM systems, and production AI development practices 
+- **Technical Mentoring:** Guidance on ML engineering, LLM systems, and AI development practices 
 
 ## 📫 Let's Connect
 
