@@ -1,4 +1,4 @@
-# Dr. Irfan Fetahović | AI Research Scientist & Machine Learning Engineer
+# Dr. Irfan Fetahović | AI Applied Scientist & Machine Learning Engineer
 
 <div align="center">
 
