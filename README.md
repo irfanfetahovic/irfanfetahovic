@@ -47,7 +47,7 @@ PhD in Soft Computing with 18 years of academic experience, including 5 years as
 - Added self-evaluation loop (LLM-as-judge) for response quality control and automatic retry logic
 - Built persistent memory system using LangGraph + SQLite checkpointer for multi-turn conversations
 - Deployed as full-stack system with FastAPI + Gradio (Hugging Face Spaces)  
-**Tech:** Python, LangGraph, OpenAI GPT-4o-mini, FAISS, BM25, FastAPI, Gradio, Docker
+**Tech:** Python, LangGraph, OpenAI GPT-4o-mini, FAISS, BM25, FastAPI, Gradio, Docker  
 **Impact:** End-to-end LLM system demonstrating reliable agentic AI with evaluation-driven design
 
 ### 2. **[FLAN-T5 Dialog Summarization with SageMaker](https://github.com/irfanfetahovic/flant5-dialogsum-sagemaker)**
