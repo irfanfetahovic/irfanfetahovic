@@ -8,7 +8,7 @@
 
 ## 🎓 About Me
 
-PhD in Soft Computing with 18 years of academic experience, including 5 years as an Assistant Professor. I bridge the gap between cutting-edge AI research and production-ready business solutions through expertise in **metaheuristics optimization**, **machine learning engineering**, and **MLOps**.
+PhD in Soft Computing with 18 years of academic experience, including 5 years as an Assistant Professor. I bridge the gap between cutting-edge AI research and production-ready business solutions through expertise in **metaheuristics optimization**, **ML & AI engineering**, and **MLOps**.
 
 **Research Focus:** Metaheuristics, Optimization Algorithms, Machine Learning, Deep Learning  
 **Industry Focus:** Production AI & ML Systems, AI agent systems & LLM applications, MLOps, Business Intelligence, Explainable AI
